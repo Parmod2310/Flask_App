@@ -67,10 +67,10 @@ To get started, make sure you have the following installed:
 
 ## Screenshots 📸
    Here is a screenshot of the Regex Matcher Web App:
-
-
-
-
+![Regex Matcher Screenshot](https://github.com/Parmod2310/Flask_App/blob/main/screenshots/1.png)
+![Regex Matcher Screenshot](https://github.com/Parmod2310/Flask_App/blob/main/screenshots/2.png)
+![Regex Matcher Screenshot](https://github.com/Parmod2310/Flask_App/blob/main/screenshots/3.png)
+![Regex Matcher Screenshot](https://github.com/Parmod2310/Flask_App/blob/main/screenshots/4.png)
 ---
 
 ## Deployment 🌐
