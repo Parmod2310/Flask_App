@@ -96,6 +96,7 @@ Flask_App/
 ├── templates/            # HTML Templates
 │   ├── index.html
 │   └── results.html
+├── requirements.txt
 └── app.py                # Main Flask Application
 ```
 
